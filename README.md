@@ -1,1 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/NL2TjK2z)
+# 开源软件开发实践-Lab1
+
+如你所见，这是开源软件开发实践实验1的代码内容
+
+在当前目录完成R3的要求，对文件修改后查看上次提交之后文件的修改情况及具体修改内容
